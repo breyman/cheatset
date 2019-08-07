@@ -20,7 +20,7 @@ cheatsheet do
     entry do
       command 'CMD+.'
       name 'Dismiss View'
-      notes: 'Used in logs, settings and other similar views.'
+      notes 'Used in logs, settings and other similar views.'
     end
     entry do
       command 'CMD+0'
