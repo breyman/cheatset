@@ -39,11 +39,11 @@ cheatsheet do
   category do
     id 'Repositories'
     entry do
-      command 'CMD+Shift+F'
+      command 'CMD+SHIFT+F'
       name 'Fetch'
     end
     entry do
-      command 'CMD+Shift+L'
+      command 'CMD+SHIFT+L'
       name 'Pull'
     end
     entry do
@@ -51,14 +51,14 @@ cheatsheet do
       name 'Search Files in Current Repository'
     end
     entry do
-      command 'CMD+SHIFT+L'
+      command 'CMD+SHIFT+R'
       name 'View Repository List'
     end
     entry do
-      command 'CMD+Shift+S'
+      command 'CMD+SHIFT+S'
       name 'View Repository Status'
     end
   end
 
-  notes 'For more on how to use Working Copy go to the [Working Copy user\'s guide](https://workingcopyapp.com/users-guide).'
+  notes 'For more on how to use Working Copy go to the [Working Copy users\' guide](https://workingcopyapp.com/users-guide).'
 end
