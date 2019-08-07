@@ -2,7 +2,7 @@ cheatsheet do
   title 'Working Copy'
   docset_file_name 'workingcopy.rb'
   keyword 'workingcopy'
-
+  source_url 'http://cheat.kapeli.com'
   introduction 'Keyboard shortcuts for **Working Copy**, the **best Git client for iOS**.'
 
 
